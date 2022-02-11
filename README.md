@@ -1,7 +1,9 @@
 ![Header](https://github.com/KseniyaAndreevna/kseniyaandreevna/blob/main/image/MyBanner.png)
 
-Hi, I'm Kseniya! \n
-I have over 4+ years of IT experience as a QA Engineer in Software Testing, proficient in Client/Server and Web based applications.
+Hi, I'm Kseniya!
+
+I have over 4+ years of IT experience as a QA Engineer in Software Testing, proficient in Client/Server and Web based applications. I've been working on InsurTech and FinTech projects with strong involvement in all stages of the software development process. I rely on best practices and constantly improve my skills in my work.
+
 Contact me in Telegram: @KAtygaeva
 
 <!--
