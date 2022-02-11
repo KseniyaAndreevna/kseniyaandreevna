@@ -1,6 +1,6 @@
 ![Header](https://github.com/KseniyaAndreevna/kseniyaandreevna/blob/main/image/MyBanner.png)
 
-Hi, I'm Kseniya,
+Hi, I'm Kseniya! \n
 I have over 4+ years of IT experience as a QA Engineer in Software Testing, proficient in Client/Server and Web based applications.
 Contact me in Telegram: @KAtygaeva
 
