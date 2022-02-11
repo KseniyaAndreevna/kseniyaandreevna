@@ -1,8 +1,13 @@
-### Hi there 👋
+![Header](https://github.com/KseniyaAndreevna/kseniyaandreevna/blob/main/image/MyBanner.png)
 
-![Header](https://github.com/KseniyaAndreevna/kseniyaandreevna/blob/main/image/Shadow%20Welcome%20March%20Banner.png)
+Hi, I'm Kseniya,
+I have over 4+ years of IT experience as a QA Engineer in Software Testing, proficient in Client/Server and Web based applications.
+Contact me in Telegram: @KAtygaeva
+
 <!--
 **KseniyaAndreevna/kseniyaandreevna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
